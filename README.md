@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-Other        30 hrs 46 mins  █████████████████▒░░░░░░░   69.19 % 
-PHP          4 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-JavaScript   3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Python       1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-HTML         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Other        28 hrs 11 mins  ████████████████▓░░░░░░░░   66.42 % 
+PHP          4 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+JavaScript   3 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Dart         1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python       1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 <!--END_SECTION:waka-->
