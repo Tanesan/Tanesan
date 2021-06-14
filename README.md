@@ -7,11 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 June, 2021 - 12 June, 2021
+Week: 06 June, 2021 - 13 June, 2021
 
-Python       3 hrs 15 mins   ██████████████▓░░░░░░░░░░   58.71 % 
-JavaScript   1 hr 36 mins    ███████▒░░░░░░░░░░░░░░░░░   29.01 % 
-YAML         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python       6 hrs 23 mins   █████████████████▒░░░░░░░   69.28 % 
+JavaScript   1 hr 42 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.56 % 
+YAML         41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+JSON         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 <!--END_SECTION:waka-->
