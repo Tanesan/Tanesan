@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 14 August, 2021
+Week: 09 August, 2021 - 15 August, 2021
 
-JavaScript   12 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   47.14 % 
-PHP          5 hrs 58 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.95 % 
-HTML         3 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-YAML         1 hr 58 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Python       1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+JavaScript   13 hrs 24 mins  █████████████▓░░░░░░░░░░░   54.56 % 
+PHP          3 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+HTML         3 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+YAML         1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+XML          1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 <!--END_SECTION:waka-->
