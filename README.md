@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 September, 2021 - 09 September, 2021
+Week: 04 September, 2021 - 10 September, 2021
 
-JavaScript   10 hrs 11 mins  ██████████████▒░░░░░░░░░░   57.87 % 
-Python       3 hrs 20 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
-JSON         1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-YAML         47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-Other        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JavaScript   11 hrs 15 mins  ██████████████▓░░░░░░░░░░   58.91 % 
+Python       3 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.71 % 
+JSON         1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Other        57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+YAML         55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 ```
 <!--END_SECTION:waka-->
