@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 September, 2021 - 22 September, 2021
+Week: 17 September, 2021 - 23 September, 2021
 
-Other        2 hrs 52 mins   ███████▒░░░░░░░░░░░░░░░░░   28.91 % 
-PHP          2 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-CSV          1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Python       1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-JavaScript   1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Python       3 hrs 2 mins    ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Other        2 hrs 47 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.85 % 
+PHP          2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.68 % 
+JavaScript   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+CSV          48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 ```
 <!--END_SECTION:waka-->
