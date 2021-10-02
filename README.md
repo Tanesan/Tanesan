@@ -7,12 +7,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 September, 2021 - 30 September, 2021
+Week: 25 September, 2021 - 01 October, 2021
 
-Dart         24 hrs 9 mins   ███████████████░░░░░░░░░░   60.15 % 
-JavaScript   7 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Python       3 hrs 40 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Other        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-YAML         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Dart         26 hrs 18 mins  ████████████████░░░░░░░░░   63.81 % 
+JavaScript   5 hrs 27 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Python       4 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Other        1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+YAML         1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 ```
 <!--END_SECTION:waka-->
