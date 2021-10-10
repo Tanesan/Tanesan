@@ -7,12 +7,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2021 - 08 October, 2021
+Week: 03 October, 2021 - 09 October, 2021
 
-HTML     18 mins         ████████████▓░░░░░░░░░░░░   50.70 % 
-Other    8 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.49 % 
-Dart     4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Python   3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-YAML     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Python   3 mins          █████████████░░░░░░░░░░░░   52.31 % 
+Other    2 mins          ████████████░░░░░░░░░░░░░   47.69 % 
 ```
 <!--END_SECTION:waka-->
