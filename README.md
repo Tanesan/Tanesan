@@ -7,7 +7,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 October, 2021 - 19 October, 2021
+Week: 14 October, 2021 - 20 October, 2021
 
 Bash   2 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.03 % 
 PHP    2 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.09 % 
