@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2021 - 10 November, 2021
+Week: 05 November, 2021 - 11 November, 2021
 
-C            11 hrs 25 mins  ██████████▓░░░░░░░░░░░░░░   42.76 % 
-JavaScript   5 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.07 % 
-ObjectiveC   3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Python       2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-TypeScript   1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+C            6 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.93 % 
+JavaScript   5 hrs 53 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
+ObjectiveC   4 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.01 % 
+Python       2 hrs 51 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+TypeScript   1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
