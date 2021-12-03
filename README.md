@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 25 November, 2021 - 01 December, 2021
+Week: 26 November, 2021 - 02 December, 2021
 
 JavaScript   9 hrs 11 mins   ███████████████████████░░   91.98 % 
 JSON         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
