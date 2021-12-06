@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 28 November, 2021 - 04 December, 2021
+Week: 29 November, 2021 - 05 December, 2021
 
-JavaScript   10 hrs 5 mins   ██████████████████████▒░░   89.40 % 
-JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-PHP          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JavaScript   8 hrs 53 mins   █████████████████████▓░░░   86.30 % 
+JSON         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+HTML         27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+PHP          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
