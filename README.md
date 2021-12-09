@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 07 December, 2021
+Week: 02 December, 2021 - 08 December, 2021
 
 JavaScript   54 mins         █████████████▒░░░░░░░░░░░   52.97 % 
 HTML         27 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.25 % 
