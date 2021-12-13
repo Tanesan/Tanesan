@@ -1,9 +1,8 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 05 December, 2021 - 11 December, 2021
+Week: 06 December, 2021 - 12 December, 2021
 
-Python   1 hr 22 mins    ███████████████████▒░░░░░   77.25 % 
-HTML     24 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.75 % 
+Python   1 hr 22 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
