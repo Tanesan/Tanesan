@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-PHP          2 hrs 28 mins   ████████░░░░░░░░░░░░░░░░░   32.18 % 
-Python       2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   28.70 % 
-C            2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-CSS          40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-ObjectiveC   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+PHP          2 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.44 % 
+Python       2 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.72 % 
+C            1 hr 44 mins    ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+CSS          40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+ObjectiveC   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
