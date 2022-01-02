@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 PHP          2 hrs 28 mins   ████████▓░░░░░░░░░░░░░░░░   34.44 % 
 Python       2 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.72 % 
