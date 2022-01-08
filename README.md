@@ -1,6 +1,8 @@
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 01 January, 2022 - 07 January, 2022
+
+
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
