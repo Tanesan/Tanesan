@@ -1,10 +1,10 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
-PHP          4 hrs 19 mins   ███████████████████▓░░░░░   78.64 % 
-CSS          55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.80 % 
-JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+PHP          4 hrs 44 mins   ████████████████████░░░░░   79.74 % 
+CSS          57 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+JavaScript   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
