@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 C            4 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.05 % 
 PHP          2 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 % 
