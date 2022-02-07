@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
-C            4 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   31.05 % 
-PHP          2 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.78 % 
-Python       1 hr 59 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-ObjectiveC   1 hr 56 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JavaScript   1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+C            6 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   37.17 % 
+PHP          2 hrs 53 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+ObjectiveC   2 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Python       1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+JavaScript   1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
