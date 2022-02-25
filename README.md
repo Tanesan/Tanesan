@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 17 February, 2022 - To: 24 February, 2022
 
-C            7 hrs 25 mins   ████████████░░░░░░░░░░░░░   48.26 % 
-ObjectiveC   5 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   34.61 % 
-JavaScript   40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-HTML         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Makefile     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+C            13 hrs 14 mins  ███████████████░░░░░░░░░░   60.13 % 
+ObjectiveC   7 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   32.68 % 
+Bash         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Makefile     22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 <!--END_SECTION:waka-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
