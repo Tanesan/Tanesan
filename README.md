@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 March 2022 - To: 16 March 2022
+From: 10 March 2022 - To: 17 March 2022
 
-C               5 hrs 51 mins   ██████████▓░░░░░░░░░░░░░░   43.21 %
-ObjectiveC      2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-JavaScript      1 hr 46 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Text            1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-HTML            1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-AUTO_DETECTED   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+C               5 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   35.68 %
+PHP             2 hrs 47 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+ObjectiveC      2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+HTML            1 hr 22 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Text            1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+JavaScript      59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
 ```
 
 <!--END_SECTION:waka-->
