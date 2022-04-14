@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 April 2022 - To: 12 April 2022
+From: 06 April 2022 - To: 13 April 2022
 
-C                10 hrs 39 mins  ██████████████▓░░░░░░░░░░   58.68 %
-JavaScript       2 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
-ObjectiveC       2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-Makefile         1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Text             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-JSON             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+C                14 hrs 38 mins  ████████████████▒░░░░░░░░   65.12 %
+ObjectiveC       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+JavaScript       2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Makefile         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Text             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+JSON             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
