@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2022 - To: 17 May 2022
+From: 11 May 2022 - To: 18 May 2022
 
 JavaScript   2 hrs 33 mins   ███████████████████░░░░░░   75.46 %
 CSS          23 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
