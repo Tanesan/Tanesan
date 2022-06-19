@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 TeX            45 mins         ██████████████████████░░░   88.34 %
 JSON           3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
