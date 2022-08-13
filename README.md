@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 July 2022 - To: 07 August 2022
+From: 05 August 2022 - To: 12 August 2022
 
-Python             4 hrs 41 mins   ████████████▒░░░░░░░░░░░░   49.73 %
-PHP                1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-Other              59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Python       3 hrs 32 mins   ████████████▒░░░░░░░░░░░░   49.24 %
+C            1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+ObjectiveC   1 hr 4 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Other        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
 ```
 
 <!--END_SECTION:waka-->
