@@ -1,10 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 August 2022 - To: 16 August 2022
+From: 11 August 2022 - To: 18 August 2022
 
-Python       3 hrs 34 mins   ███████████████░░░░░░░░░░   60.27 %
-Other        1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+YAML     47 mins         █████████████████████▒░░░   85.26 %
+JSON     5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
+Python   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
 ```
 
 <!--END_SECTION:waka-->
