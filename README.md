@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 October 2022 - To: 13 October 2022
+From: 07 October 2022 - To: 14 October 2022
 
 Dart             30 hrs 34 mins  ███████████████████████▓░   94.77 %
 Python           1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
