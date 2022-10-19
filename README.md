@@ -1,11 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 October 2022 - To: 17 October 2022
+From: 11 October 2022 - To: 18 October 2022
 
-Dart         17 hrs 37 mins  ████████████████████████▓   99.25 %
-JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-textmate     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Dart         17 hrs 12 mins  █████████████████████████   99.34 %
+JavaScript   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
