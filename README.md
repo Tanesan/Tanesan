@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 21 October 2022 - To: 28 October 2022
 
-Dart             15 hrs 1 min    █████████████████████░░░░   84.11 %
-Python           1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Text             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Dart             14 hrs 12 mins  █████████████████░░░░░░░░   67.71 %
+Cython           2 hrs 44 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Python           2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Text             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
