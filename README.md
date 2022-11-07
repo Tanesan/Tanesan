@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
+From: 30 October 2022 - To: 06 November 2022
 
-Rust             6 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.30 %
-Cython           3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
-Python           2 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Dart             1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-HTML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Dart             7 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   39.44 %
+Rust             6 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.64 %
+Python           1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JSON             59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+JavaScript       54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Text             47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
 ```
 
 <!--END_SECTION:waka-->
