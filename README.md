@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-Dart             2 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.42 %
-C#               2 hrs 40 mins   ████████▓░░░░░░░░░░░░░░░░   34.04 %
-PHP              1 hr 42 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-Blade Template   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-CSS              11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+PHP              4 hrs 23 mins   ██████████▒░░░░░░░░░░░░░░   41.22 %
+Dart             2 hrs 42 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+C#               2 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.14 %
+Blade Template   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+CSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 ```
 
 <!--END_SECTION:waka-->
