@@ -1,12 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 December 2022 - To: 23 December 2022
+From: 17 December 2022 - To: 24 December 2022
 
-HTML         6 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   39.22 %
-Dart         5 hrs 54 mins   ████████▒░░░░░░░░░░░░░░░░   33.53 %
-Ruby         2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Other        56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Dart         10 hrs 38 mins  ███████████▓░░░░░░░░░░░░░   46.26 %
+HTML         6 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+Ruby         2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
+Other        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
