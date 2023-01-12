@@ -1,11 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 January 2023 - To: 10 January 2023
+From: 04 January 2023 - To: 11 January 2023
 
-Dart           8 hrs 21 mins   ████████████████████████░   96.36 %
-Text           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Dart           8 hrs 28 mins   ████████████████████████░   96.40 %
+Text           18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ObjectiveC     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
