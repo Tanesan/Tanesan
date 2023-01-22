@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 January 2023 - To: 20 January 2023
+From: 14 January 2023 - To: 21 January 2023
 
 Python       1 hr 26 mins    █████████▒░░░░░░░░░░░░░░░   37.53 %
 C#           1 hr 25 mins    █████████▒░░░░░░░░░░░░░░░   36.97 %
