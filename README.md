@@ -1,14 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 January 2023 - To: 23 January 2023
+From: 17 January 2023 - To: 24 January 2023
 
-Python       1 hr 26 mins    ███████████████░░░░░░░░░░   60.06 %
-Swift        18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-ERB          18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-Ruby         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Vue.js       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Python   5 hrs 13 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
