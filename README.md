@@ -1,14 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-JavaScript       2 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.05 %
-Dart             2 hrs 33 mins   ███████████▒░░░░░░░░░░░░░   45.33 %
-Text             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-JSON             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-CMake            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JavaScript       4 hrs 4 mins    █████████████░░░░░░░░░░░░   51.61 %
+Dart             2 hrs 33 mins   ████████░░░░░░░░░░░░░░░░░   32.39 %
+JSON             46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Text             15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other            12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 ```
 
 <!--END_SECTION:waka-->
