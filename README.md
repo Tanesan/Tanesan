@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 February 2023 - To: 09 February 2023
+From: 03 February 2023 - To: 10 February 2023
 
-Dart             5 hrs 38 mins   ███████████▒░░░░░░░░░░░░░   44.92 %
-JavaScript       2 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-XML              57 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
-Groovy           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Gradle           33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Properties       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Dart             4 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.87 %
+XML              57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+Groovy           55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
+Gradle           33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+Properties       19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+GitIgnore file   16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
