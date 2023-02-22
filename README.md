@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February 2023 - To: 20 February 2023
+From: 14 February 2023 - To: 21 February 2023
 
-Python           2 hrs 4 mins    ██████████████▓░░░░░░░░░░   58.33 %
-HTML             1 hr 17 mins    █████████░░░░░░░░░░░░░░░░   36.32 %
-GitIgnore file   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-TeX              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python           2 hrs 4 mins    ████████████████▒░░░░░░░░   65.46 %
+HTML             55 mins         ███████▒░░░░░░░░░░░░░░░░░   29.03 %
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+TeX              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
