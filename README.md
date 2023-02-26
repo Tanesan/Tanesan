@@ -1,11 +1,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 February 2023 - To: 24 February 2023
+From: 18 February 2023 - To: 25 February 2023
 
-Python           2 hrs 4 mins    █████████████████████▓░░░   86.48 %
-HTML             12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Python           2 hrs 4 mins    █████████████████████░░░░   84.40 %
+HTML             16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+GitIgnore file   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
