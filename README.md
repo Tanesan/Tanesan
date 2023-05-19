@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
 Dart             5 hrs 31 mins   █████████████████████▒░░░   85.33 %
 HTML             36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
