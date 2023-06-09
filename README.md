@@ -1,9 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-Python   0 secs          █████████████████████████   100.00 %
+Dart     8 mins          ████████████████████████▓   99.19 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
