@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 14 June 2023
+From: 08 June 2023 - To: 15 June 2023
 
-Dart   8 mins          ███████████████████▒░░░░░   77.72 %
-TeX    2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+TeX   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
