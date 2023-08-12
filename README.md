@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-SQL              1 hr 21 mins    █████████████▓░░░░░░░░░░░   54.61 %
-TypeScript       55 mins         █████████▒░░░░░░░░░░░░░░░   37.05 %
-Ruby             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-SourceMap        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript       55 mins         ████████████████████▒░░░░   81.62 %
+Ruby             6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
+SourceMap        5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
