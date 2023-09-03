@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
 Ruby           7 hrs 6 mins    ████████████▒░░░░░░░░░░░░   48.81 %
 Python         2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
