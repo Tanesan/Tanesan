@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Ruby             10 hrs 1 min    ███████████░░░░░░░░░░░░░░   44.66 %
-Python           5 hrs 27 mins   ██████░░░░░░░░░░░░░░░░░░░   24.35 %
-Vue.js           2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
-YAML             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JavaScript       47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Ruby           14 hrs 7 mins   ██████████████▓░░░░░░░░░░   58.68 %
+Python         5 hrs 31 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.94 %
+YAML           55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+ERB            47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Text           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
