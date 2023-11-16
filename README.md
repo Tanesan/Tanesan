@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2023 - To: 13 November 2023
+From: 07 November 2023 - To: 14 November 2023
 
-Ruby          4 hrs 56 mins   ███████████░░░░░░░░░░░░░░   44.10 %
-Jupyter       2 hrs 42 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Python        2 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-SQL           28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-YAML          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+Jupyter       7 hrs 6 mins    ███████████▓░░░░░░░░░░░░░   47.08 %
+Ruby          4 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
+Python        1 hr 40 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+SQL           28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+YAML          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
