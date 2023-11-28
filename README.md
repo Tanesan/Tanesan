@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-Dart             5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.26 %
-Ruby             4 hrs 56 mins   ███████████░░░░░░░░░░░░░░   44.22 %
-YAML             33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-SQL              28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Ruby             5 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.05 %
+Dart             5 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.11 %
+YAML             55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Markdown         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+JavaScript       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
