@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
 Ruby             5 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.05 %
 Dart             5 hrs 3 mins    ██████████░░░░░░░░░░░░░░░   40.11 %
