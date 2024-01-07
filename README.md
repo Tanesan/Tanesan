@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2023 - To: 05 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-JavaScript       3 hrs 53 mins   ████████████████████░░░░░   79.47 %
-Python           30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-CSS              28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
