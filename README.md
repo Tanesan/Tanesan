@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
 Ruby         3 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.88 %
 ERB          1 hr 46 mins    ███████▒░░░░░░░░░░░░░░░░░   28.90 %
