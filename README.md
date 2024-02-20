@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2024 - To: 18 February 2024
+From: 12 February 2024 - To: 19 February 2024
 
-Python           7 hrs 34 mins   ███████████▒░░░░░░░░░░░░░   45.76 %
-Ruby             4 hrs 34 mins   ███████░░░░░░░░░░░░░░░░░░   27.63 %
-HTML             1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Jupyter          35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-SQL              33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+Python           7 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   39.61 %
+Ruby             6 hrs 54 mins   █████████░░░░░░░░░░░░░░░░   36.13 %
+HTML             1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
+Jupyter          35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+SQL              34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
