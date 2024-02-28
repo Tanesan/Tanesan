@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2024 - To: 26 February 2024
+From: 20 February 2024 - To: 27 February 2024
 
-ERB          2 hrs 42 mins   ████████░░░░░░░░░░░░░░░░░   32.18 %
-Ruby         2 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
-Vue.js       1 hr 24 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.66 %
-JavaScript   1 hr 22 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-YAML         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+ERB          1 hr 27 mins    ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+Ruby         1 hr 27 mins    ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+Vue.js       1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+JavaScript   29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+YAML         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
