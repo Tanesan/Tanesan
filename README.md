@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2024 - To: 06 March 2024
+From: 29 February 2024 - To: 07 March 2024
 
-Python           2 hrs 1 min     █████████████████▒░░░░░░░   69.68 %
-Dart             25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
-Ruby             18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-JavaScript       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python           2 hrs 1 min     ████████████████░░░░░░░░░   63.44 %
+Dart             37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 %
+Ruby             18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+JavaScript       11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
