@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-ERB          1 hr 7 mins     ██████████▒░░░░░░░░░░░░░░   40.95 %
-TypeScript   56 mins         ████████▓░░░░░░░░░░░░░░░░   34.01 %
-JavaScript   19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Other        14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
-TSConfig     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+TypeScript   56 mins         ██████████████████░░░░░░░   72.18 %
+Other        14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
+TSConfig     4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
