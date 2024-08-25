@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
-Python     5 hrs 13 mins   ████████████████████████░   95.86 %
-textmate   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-Bash       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Text       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python           5 hrs 19 mins   ███████████████████▒░░░░░   77.85 %
+TypeScript       45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+textmate         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Bash             10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+TSConfig         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
