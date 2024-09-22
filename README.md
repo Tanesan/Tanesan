@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 September 2024 - To: 20 September 2024
+From: 14 September 2024 - To: 21 September 2024
 
-Python           1 hr 11 mins    ███████████████▓░░░░░░░░░   62.39 %
-CSV/TSV          29 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
-XML              6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-Bash             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-textmate         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Markdown         2 hrs 46 mins   ███████████████▓░░░░░░░░░   62.43 %
+Python           40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+CSV/TSV          29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Text             15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+XML              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
 <!--END_SECTION:waka-->
