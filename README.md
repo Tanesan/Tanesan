@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2024 - To: 25 September 2024
+From: 19 September 2024 - To: 26 September 2024
 
-Markdown         2 hrs 46 mins   ████████████████████▓░░░░   83.13 %
-Text             15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Python           9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
-Git              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Markdown         2 hrs 46 mins   █████████████████▓░░░░░░░   70.50 %
+Dart             30 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+Text             15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Python           9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Git              6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
