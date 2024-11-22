@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-No activity tracked
+Python       14 mins         ██████████████▒░░░░░░░░░░   57.53 %
+CSV/TSV      9 mins          ██████████░░░░░░░░░░░░░░░   39.89 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
