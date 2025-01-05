@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2024 - To: 03 January 2025
+From: 28 December 2024 - To: 04 January 2025
 
-JavaScript   48 mins         ████████████████████░░░░░   80.45 %
-CSV          10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
