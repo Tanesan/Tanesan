@@ -1,13 +1,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-Markdown         1 hr 6 mins     ██████████▓░░░░░░░░░░░░░░   42.85 %
-JavaScript       28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-Python           20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.55 %
-Bash             15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
-JSON             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Markdown         1 hr 5 mins     ███████████████████████▒░   93.71 %
+YAML             4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
