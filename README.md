@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2025 - To: 20 February 2025
+From: 14 February 2025 - To: 21 February 2025
 
-TypeScript        3 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   39.28 %
-Python            2 hrs 20 mins   ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-textmate          1 hr 3 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
-Markdown          58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-SQL               38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+TypeScript        3 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+YAML              2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Python            2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
+Markdown          2 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
+SQL               1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
 ```
 
 <!--END_SECTION:waka-->
