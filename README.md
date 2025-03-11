@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2025 - To: 09 March 2025
+From: 03 March 2025 - To: 10 March 2025
 
-Python             1 hr 37 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
-Terraform          1 hr 37 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-textmate           34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
-Jupyter            31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-Markdown           29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+Python             1 hr 37 mins    █████████▓░░░░░░░░░░░░░░░   38.24 %
+Jupyter            31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+textmate           22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+YAML               22 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+CSV/TSV            20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
 
 <!--END_SECTION:waka-->
