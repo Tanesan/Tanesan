@@ -1,13 +1,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2025 - To: 06 April 2025
+From: 31 March 2025 - To: 07 April 2025
 
-CSS          24 mins         ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Python       15 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-Markdown     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-TypeScript   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Makefile     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Python     3 mins          ███████████████▒░░░░░░░░░   61.16 %
+Markdown   2 mins          █████████▓░░░░░░░░░░░░░░░   38.84 %
 ```
 
 <!--END_SECTION:waka-->
