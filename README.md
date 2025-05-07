@@ -1,12 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 05 May 2025
+From: 29 April 2025 - To: 06 May 2025
 
-TypeScript         6 mins          ████████████▓░░░░░░░░░░░░   50.06 %
-Python             6 mins          ████████████░░░░░░░░░░░░░   48.16 %
-Text               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript         14 mins         ████████████████▓░░░░░░░░   66.17 %
+Python             6 mins          ███████░░░░░░░░░░░░░░░░░░   27.99 %
+JSON               0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+Text               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
