@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Python   1 min           █████████████████████████   100.00 %
+Text          1 hr 50 mins    ███████████▒░░░░░░░░░░░░░   45.26 %
+Dart          1 hr 9 mins     ███████░░░░░░░░░░░░░░░░░░   28.41 %
+textmate      21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+YAML          18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
+Swift         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
