@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
 Dart             5 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.49 %
 Text             4 hrs 38 mins   ██████████▒░░░░░░░░░░░░░░   41.14 %
