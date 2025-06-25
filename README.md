@@ -1,10 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2025 - To: 23 June 2025
+From: 17 June 2025 - To: 24 June 2025
 
-Dart   0 secs          ██████████████████████▓░░   90.42 %
-YAML   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
