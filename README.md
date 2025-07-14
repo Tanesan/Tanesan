@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2025 - To: 12 July 2025
+From: 06 July 2025 - To: 13 July 2025
 
-XML          4 hrs 20 mins   ████████████████████▒░░░░   81.93 %
-JavaScript   49 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-Swift        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-CSV          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+HTML   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
