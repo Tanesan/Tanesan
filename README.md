@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2025 - To: 20 October 2025
+From: 14 October 2025 - To: 21 October 2025
 
-CSV          28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.97 %
-INI          19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 %
-TypeScript   19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Markdown     14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-Python       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+TypeScript       31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.41 %
+CSV              28 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+textmate         28 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+Markdown         25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
+Python           25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.68 %
 ```
 
 <!--END_SECTION:waka-->
