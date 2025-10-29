@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2025 - To: 27 October 2025
+From: 21 October 2025 - To: 28 October 2025
 
-Markdown         2 hrs           ████████▓░░░░░░░░░░░░░░░░   34.60 %
-HTML             1 hr 20 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
-TypeScript       49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
-Text             34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-textmate         28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Markdown         1 hr 48 mins    ██████████░░░░░░░░░░░░░░░   39.95 %
+HTML             1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.52 %
+TypeScript       36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+Text             31 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+IDEA_MODULE      11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
