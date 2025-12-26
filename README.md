@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2025 - To: 24 December 2025
+From: 18 December 2025 - To: 25 December 2025
 
-Markdown       30 mins         ███████████▓░░░░░░░░░░░░░   46.13 %
-Bash           10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
-INI            9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-Text           6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-textmate       5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+Markdown       31 mins         █████████▓░░░░░░░░░░░░░░░   38.53 %
+TypeScript     11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Bash           11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+INI            9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+textmate       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
 ```
 
 <!--END_SECTION:waka-->
