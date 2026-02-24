@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2026 - To: 22 February 2026
+From: 16 February 2026 - To: 23 February 2026
 
-YAML         37 mins               ███████████░░░░░░░░░░░░░░   44.56 %
-Markdown     33 mins               █████████▓░░░░░░░░░░░░░░░   39.21 %
-JavaScript   13 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML         23 mins               ██████████▓░░░░░░░░░░░░░░   42.40 %
+Markdown     18 mins               ████████▒░░░░░░░░░░░░░░░░   33.58 %
+JavaScript   13 mins               ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Text         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
