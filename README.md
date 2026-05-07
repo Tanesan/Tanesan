@@ -1,11 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2026 - To: 05 May 2026
+From: 29 April 2026 - To: 06 May 2026
 
-YAML    19 mins               █████████████████▒░░░░░░░   68.69 %
-Dart    6 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.22 %
-Other   2 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
