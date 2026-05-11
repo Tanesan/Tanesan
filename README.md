@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2026 - To: 09 May 2026
+From: 03 May 2026 - To: 10 May 2026
 
-No activity tracked
+YAML         3 hrs 46 mins         ████████░░░░░░░░░░░░░░░░░   31.38 %
+TypeScript   3 hrs 36 mins         ███████▒░░░░░░░░░░░░░░░░░   29.95 %
+Dart         3 hrs 3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+JavaScript   58 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+JSON         18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
