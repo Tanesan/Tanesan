@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2026 - To: 25 May 2026
+From: 19 May 2026 - To: 26 May 2026
 
-Python       32 mins               ████████████░░░░░░░░░░░░░   47.88 %
-Dart         11 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-Other        8 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.18 %
-YAML         7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-Markdown     3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
