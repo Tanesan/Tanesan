@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 May 2026 - To: 28 May 2026
+From: 23 May 2026 - To: 30 May 2026
 
-No activity tracked
+Dart                       9 hrs 45 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Swift                      4 hrs 42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Markdown                   3 hrs 58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 %
+YAML                       3 hrs 38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+C                          2 hrs 58 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
 ```
 
 <!--END_SECTION:waka-->
