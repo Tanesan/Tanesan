@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2026 - To: 07 June 2026
+From: 01 June 2026 - To: 08 June 2026
 
-Swift      6 hrs 27 mins         █████████████░░░░░░░░░░░░   51.41 %
-Dart       3 hrs 13 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
-Markdown   1 hr 22 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Text       1 hr 11 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 %
-YAML       9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Swift   23 mins               █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
