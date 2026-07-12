@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2026 - To: 10 July 2026
+From: 04 July 2026 - To: 11 July 2026
 
-Markdown      22 hrs 5 mins         ███████████▓░░░░░░░░░░░░░   46.90 %
-Dart          7 hrs 38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.24 %
-Python        6 hrs 11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.16 %
-INI           2 hrs 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-YAML          1 hr 53 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Markdown      22 hrs 39 mins        █████████████▓░░░░░░░░░░░   54.85 %
+Dart          5 hrs 35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
+Python        4 hrs 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+YAML          2 hrs 10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+TypeScript    1 hr 37 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
 ```
 
 <!--END_SECTION:waka-->
