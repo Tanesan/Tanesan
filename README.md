@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2026 - To: 27 July 2026
+From: 21 July 2026 - To: 28 July 2026
 
-Markdown     9 hrs 5 mins          █████████████░░░░░░░░░░░░   52.22 %
-Dart         4 hrs 58 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
-TypeScript   2 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
-YAML         57 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Terraform    6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Markdown                   11 hrs 11 mins        ██████████▓░░░░░░░░░░░░░░   43.13 %
+TypeScript                 6 hrs 33 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
+Dart                       5 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+YAML                       1 hr                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+JavaScript                 27 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
 ```
 
 <!--END_SECTION:waka-->
