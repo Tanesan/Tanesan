@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2026 - To: 13 August 2026
+From: 07 August 2026 - To: 14 August 2026
 
-Markdown   3 hrs 9 mins          ████████████░░░░░░░░░░░░░   47.39 %
-Dart       1 hr 26 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.79 %
-Bash       1 hr 13 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-YAML       47 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
-Python     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
