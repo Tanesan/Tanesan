@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2026 - To: 27 August 2026
+From: 21 August 2026 - To: 28 August 2026
 
-No activity tracked
+Dart                       14 hrs 42 mins        █████████████▒░░░░░░░░░░░   53.01 %
+Python                     5 hrs 6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+TypeScript                 3 hrs 51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Markdown                   1 hr 53 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+YAML                       56 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 <!--END_SECTION:waka-->
