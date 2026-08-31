@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2026 - To: 29 August 2026
+From: 23 August 2026 - To: 30 August 2026
 
-Dart                       9 hrs 41 mins         ██████████░░░░░░░░░░░░░░░   39.87 %
-Python                     5 hrs 28 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-TypeScript                 4 hrs 23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Markdown                   2 hrs 4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-YAML                       58 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Dart                       7 hrs 45 mins         ████████▓░░░░░░░░░░░░░░░░   35.18 %
+Python                     5 hrs 28 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.86 %
+TypeScript                 4 hrs 23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
+Markdown                   2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+YAML                       38 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
