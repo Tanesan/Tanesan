@@ -1,13 +1,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Dart         2 hrs 28 mins         █████████▒░░░░░░░░░░░░░░░   37.17 %
-Other        1 hr 20 mins          █████░░░░░░░░░░░░░░░░░░░░   20.24 %
-Markdown     46 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
-JavaScript   43 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Text         27 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
