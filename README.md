@@ -1,9 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2026 - To: 16 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-No activity tracked
+Markdown     13 hrs 36 mins        ███████████▓░░░░░░░░░░░░░   46.82 %
+HTML         3 hrs 32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 %
+Dart         2 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Other        2 hrs 26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
+Text         2 hrs 21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
 ```
 
 <!--END_SECTION:waka-->
